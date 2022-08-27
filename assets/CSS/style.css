@@ -1,0 +1,12 @@
+:root{
+    --primary-color: #28a745;
+}
+.bg-primary{
+    background-color: var(--primary-color) !important;
+}
+.text-primary{
+    color: var(--primary-color) !important;
+}
+.row-gap-8{
+    row-gap: 32px;
+}
